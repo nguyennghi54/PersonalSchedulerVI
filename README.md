@@ -9,12 +9,19 @@ Thành viên nhóm:
 ## Cấu trúc thư mục
 
 PersonalSchedulerVI/
+
 ├── 📄 launcher.py       # File khởi chạy tự động (Chạy file này)
+
 ├── 📄 app.py            # Mã nguồn cho main program
+
 ├── 📄 nlp.py            # Module NLP
+
 ├── 📄 requirements.txt  # Danh sách các thư viện cần thiết
+
 ├── 📄 scheduler.db      # Cơ sở dữ liệu SQLite (Có thể xóa, tự sinh ra khi chạy app)
+
 ├── 📄 test.py           # Hàm test module NLP với bộ 30 test case 
+
 └── 📄 README.md         # Hướng dẫn sử dụng
 
 ## Hướng dẫn Cài đặt & Chạy
