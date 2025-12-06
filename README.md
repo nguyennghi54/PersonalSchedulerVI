@@ -1,11 +1,5 @@
 Đồ án Ứng dụng quản lý lịch trình cá nhân, cho phép người dùng nhập liệu bằng ngôn ngữ tự nhiên tiếng Việt. Hệ thống tự động trích xuất thông tin, lưu trữ và nhắc nhở theo thời gian thực.
 
-Thành viên nhóm:  
-
-- Ngô Nguyễn Mai Nghi - 3121410343
-
-- Đặng Ngọc Đoan Trang - 3121410515
-
 ## Cấu trúc thư mục
 
 PersonalSchedulerVI/
